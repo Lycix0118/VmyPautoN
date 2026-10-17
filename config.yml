@@ -1,15 +1,15 @@
 proxies:
 - name: 自动节点-1
   type: http
-  server: 4f0d6788-tn0yo0-tn16p6-ltal.nbg1-dc4-09092006.ukuaishou.com
+  server: c552c2c8-tn6io0-tn6p4u-lua0.nbg1-dc4-09092006.ukuaishou.com
   port: 443
   tls: true
-  sni: 4f0d6788-tn0yo0-tn16p6-ltal.nbg1-dc4-09092006.ukuaishou.com
+  sni: c552c2c8-tn6io0-tn6p4u-lua0.nbg1-dc4-09092006.ukuaishou.com
   skip-cert-verify: false
 - name: 自动节点-2
   type: http
-  server: 87278f43-tn0yo0-tn16p6-ltal.hel1-dc2-09092006.ukuaishou.com
+  server: a5b85d67-tn6io0-tn6p4u-lua0.hel1-dc2-09092006.ukuaishou.com
   port: 443
   tls: true
-  sni: 87278f43-tn0yo0-tn16p6-ltal.hel1-dc2-09092006.ukuaishou.com
+  sni: a5b85d67-tn6io0-tn6p4u-lua0.hel1-dc2-09092006.ukuaishou.com
   skip-cert-verify: false
